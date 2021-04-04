@@ -4,7 +4,6 @@ Build you own translator from chinese to english with seq2seq model in pytorchðŸ
 ## Requirements
 - `torchtext >= 1.8'
 - `spacy`
-- 
 ## Structure
 ### Files
 - `get_loaderl.py`: Define the dataloader using torchtext
